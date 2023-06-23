@@ -13,4 +13,6 @@ Am an ambitious backend developer with the urge of learning.
     <li>Software security✅</li>
   </ul> 
 <h4><a href="https://foxbash.wordpress.com/about-me/">Portfolio</a></h4> <br>
-Ps. my dp is misleading am not always frowning thats my serious face 😋😋😋</div>
+Ps. my dp is misleading am not always frowning thats my serious face 😋😋😋
+<h3>Note!!</h3> i have another <a href="https://github.com/FoxBash">github account</a> that i accidently lost the recovery for. So i switched to this 
+</div>
