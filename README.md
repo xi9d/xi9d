@@ -1,5 +1,7 @@
 # Paul Webo(Foxbash)
-## more about me at <a href="https://foxbash.wordpress.com/projects/">My projects</a>
+🔗 I am intrested in Software Development and Software Architecture
+✅ Currently undertaking my undergraduate degree in Computer Science.
+✅ I am looking forward to learn more about Software Architecture and Design
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xi9d&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xi9d&show_icons=true&theme=radical)
 <br>
