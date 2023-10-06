@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://hashnode.com/@foxbash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@foxbash" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/foxbash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="foxbash" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@paulwebo38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@paulwebo38" height="30" width="40" /></a>
+<a href="https://www.youtube.com/foxbash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="foxbash" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/paulwebo38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@paulwebo38" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/foxbash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="foxbash" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/foxbash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="foxbash" height="30" width="40" /></a>
 </p>
