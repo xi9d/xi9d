@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xi9d" alt="xi9d" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [foxbash.wordpress.com/projects](foxbash.wordpress.com/projects)
+- 👨‍💻 All of my projects are available at [foxbash.wordpress.com/projects](https://foxbash.wordpress.com/projects)
 
-- 📝 I regularly write articles on [foxbash.wordpress.com](foxbash.wordpress.com)
+- 📝 I regularly write articles on [foxbash.wordpress.com](https://foxbash.wordpress.com)
 
 - 📫 How to reach me **paulwebo38@gmail.com**
 
