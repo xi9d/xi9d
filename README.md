@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xi9d" alt="xi9d" /></a> </p>
 
-- 🔭 I’m currently working on **a game engine called Paulinator(placeholder😂)**
+- 🔭 I’m currently working on **learning go**
 
 - 👨‍💻 All of my projects are available at [https://paulwebo.vercel.app](https://paulwebo.vercel.app)
 
